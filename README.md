@@ -11,6 +11,17 @@ Property | Screen Size
  widescreen | 1216-1408
  fullhd | 1408 and above
 
+#### Colour
+
+Property |
+--------------|
+.is-primary |
+.is-link |
+.is-info |
+.is-success |
+.is-warning |
+.is-danger |
+
 
 #### Notes and Things to Remember
 
