@@ -58,6 +58,14 @@ Property | Description
 .has-text-left.	| Makes the text align to the left
 .has-text-right	| Makes the text align to the right
 
+#### transform
+
+Property | Description
+--------------|------------
+.is-capitalized	| Transforms the first character of each word to uppercase
+.is-lowercase	| Transforms all characters to lowercase
+.is-uppercase	| Transforms all characters to uppercase
+
 #### Notes and Things to Remember
 
 Property | Description
