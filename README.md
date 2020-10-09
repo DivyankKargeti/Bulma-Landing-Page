@@ -1,7 +1,7 @@
 # Bulma-Landing-Page
 A CoffeeShop Landing Page developed using Plain Bulma framework.
 
-## Notes and Things to Remember
+#### Notes and Things to Remember
 
 Property | Description
 --------------|------------------
