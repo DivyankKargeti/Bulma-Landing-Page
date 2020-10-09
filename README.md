@@ -49,6 +49,15 @@ Property | Size
 .is-size-6	| 1rem
 .is-size-7	| 0.75rem
 
+#### Aligning
+
+Property | Description
+--------------|------------
+.has-text-centered	| Makes the text centered
+.has-text-justified	| Makes the text justified
+.has-text-left.	| Makes the text align to the left
+.has-text-right	| Makes the text align to the right
+
 #### Notes and Things to Remember
 
 Property | Description
