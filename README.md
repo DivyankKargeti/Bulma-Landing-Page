@@ -5,9 +5,9 @@ A CoffeeShop Landing Page developed using Plain Bulma framework.
 
 ![ss 1](for_readme/1.png)
 
-![ss 1](for_readme/1.png)
+![ss 2](for_readme/2.png)
 
-![ss 1](for_readme/1.png)
+![ss 3](for_readme/3.png)
 
 ![ss 1](for_readme/1.png)
 
