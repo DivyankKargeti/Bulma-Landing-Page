@@ -1,6 +1,17 @@
 # Bulma-Landing-Page
 A CoffeeShop Landing Page developed using Plain Bulma framework.
 
+#### ScreenShots
+
+![ss 1](for_readme/1.png)
+
+![ss 1](for_readme/1.png)
+
+![ss 1](for_readme/1.png)
+
+![ss 1](for_readme/1.png)
+
+## NOTES
 #### Screen Sizes
 
 Property | Screen Size
