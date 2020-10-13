@@ -1,6 +1,10 @@
 # Bulma-Landing-Page
 A CoffeeShop Landing Page developed using Plain Bulma framework.
 
+#### Link to Bulma Cheatsheet
+https://github.com/DivyankKargeti/Bulma-CheatSheet
+
+
 #### ScreenShots
 
 ![ss 1](for_readme/1.png)
