@@ -9,7 +9,7 @@ A CoffeeShop Landing Page developed using Plain Bulma framework.
 
 ![ss 3](for_readme/3.png)
 
-![ss 1](for_readme/1.png)
+![ss 4](for_readme/4.png)
 
 ## NOTES
 #### Screen Sizes
